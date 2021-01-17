@@ -19,4 +19,12 @@ Le ou les supérieures hiérarchiques changent l'âme ou l'organisation de l'ins
 Evolutions possibles: 
 - Pourquoi ce changement 
 - Ostracisation (ou pire) des opposants au changement
-  
+
+### Se mettre au vert 
+
+Un événement récent pousse les protagonistes à trouver un abri. 
+
+Evolutions possibles: 
+- trahis par une personne qui les a aidés
+- se préparer au pire si on les retrouvait quand même
+- on finit quand même par les retrouver  
